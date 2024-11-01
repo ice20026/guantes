@@ -46,30 +46,30 @@
     <div class="catalog">
         <div class="item">
             <img src="01.jpg" alt="Descripción de la imagen 1">
-            <h3>casco</h3>
-            <p>casco rosa marca luki.</p>
+            <h3></h3>
+            <p>negro con rojo guantes </p>
         </div>
         <div class="item">
             <img src="02.jpg" alt="Descripción de la imagen 2">
-            <h3>casco </h3>
-            <p>casco de hombre diseño grafiti marca yamaha.</p>
+            <h3> </h3>
+            <p>color azul con diseños </p>
         </div>
         <div class="item">
             <img src="03.jpg" alt="Descripción de la imagen 3">
-            <h3>casco </h3>
-            <p>casco negro marca yamaha .</p></div>
+            <h3> </h3>
+            <p>guantes de cuero color negro</p></div>
         <div class="item">
             <img src="04.jpg" alt="Descripción de la imagen 3">
-            <h3>casco</h3>
-            <p>verde con diseño marca yamaha con led reflector .</p></div>
+            <h3></h3>
+            <p>guantes con touch tactil para usar con telefonos .</p></div>
   <div class="item">
             <img src="1.jpg" alt="Descripción de la imagen 3">
-            <h3>casco</h3>
-            <p> marca yamaha color azul con diseños y lente reflector .</p> </div>
+            <h3></h3>
+            <p> guantes recortados para usar con telefono .</p> </div>
       <div class="item">
             <img src="3.jpg" alt="Descripción de la imagen 3">
-            <h3>casco</h3>
-            <p>de niño marca luki color amarillo .</p><body><html> 
+            <h3></h3>
+            <p>guantes de tela de goma  .</p><body><html> 
 
 
 

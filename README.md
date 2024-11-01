@@ -66,10 +66,6 @@
             <img src="1.jpg" alt="Descripción de la imagen 3">
             <h3>casco</h3>
             <p> marca yamaha color azul con diseños y lente reflector .</p> </div>
-  <div class="item">
-            <img src="2.jpg" alt="Descripción de la imagen 3">
-            <h3>casco</h3>
-            <p>de niño marca luki color amarillo  .</p>
       <div class="item">
             <img src="3.jpg" alt="Descripción de la imagen 3">
             <h3>casco</h3>

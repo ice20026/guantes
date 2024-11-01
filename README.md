@@ -45,21 +45,21 @@
     <h1></h1>
     <div class="catalog">
         <div class="item">
-            <img src="c1.jpg" alt="Descripción de la imagen 1">
+            <img src="01.jpg" alt="Descripción de la imagen 1">
             <h3>casco</h3>
             <p>casco rosa marca luki.</p>
         </div>
         <div class="item">
-            <img src="c2.jpg" alt="Descripción de la imagen 2">
+            <img src="02.jpg" alt="Descripción de la imagen 2">
             <h3>casco </h3>
             <p>casco de hombre diseño grafiti marca yamaha.</p>
         </div>
         <div class="item">
-            <img src="c3.jpg" alt="Descripción de la imagen 3">
+            <img src="03.jpg" alt="Descripción de la imagen 3">
             <h3>casco </h3>
             <p>casco negro marca yamaha .</p></div>
         <div class="item">
-            <img src="c4.jpg" alt="Descripción de la imagen 3">
+            <img src="04.jpg" alt="Descripción de la imagen 3">
             <h3>casco</h3>
             <p>verde con diseño marca yamaha con led reflector .</p></div>
   <div class="item">
